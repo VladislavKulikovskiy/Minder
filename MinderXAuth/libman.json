@@ -1,0 +1,40 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [{
+  "provider": "filesystem",
+  "library": "C:\\Users\\mrray\\.nuget\\packages\\microsoft.jquery.unobtrusive.ajax\\3.2.6",
+  "destination": "wwwroot/3.2/"
+}
+,
+{
+  "provider": "filesystem",
+  "library": "C:\\Users\\mrray\\.nuget\\packages\\microsoft.jquery.unobtrusive.ajax\\3.2.6\\Content\\Scripts",
+  "destination": "wwwroot/lib/Scripts/"
+}
+,
+{
+  "provider": "filesystem",
+  "library": "C:\\Users\\mrray\\.nuget\\packages\\microsoft.jquery.unobtrusive.ajax\\3.2.6\\",
+  "destination": "wwwroot/lib/3.2/"
+}
+,
+{
+  "provider": "filesystem",
+  "library": "C:\\Users\\mrray\\.nuget\\packages\\microsoft.jquery.unobtrusive.ajax",
+  "destination": "wwwroot/lib/microsoft.jquery.unobtrusive/"
+}
+,
+{
+  "provider": "filesystem",
+  "library": "C:\\Users\\mrray\\.nuget\\packages\\microsoft.jquery.unobtrusive.ajax",
+  "destination": "wwwroot/lib/microsoft.jquery.unobtrusive/"
+}
+,
+{
+  "provider": "filesystem",
+  "library": "C:\\Users\\mrray\\.nuget\\packages\\microsoft.jquery.unobtrusive.ajax\\qwe",
+  "destination": "wwwroot/lib/qwe/"
+}
+]
+}

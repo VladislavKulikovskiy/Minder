@@ -1,0 +1,120 @@
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.deps.json
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.runtimeconfig.json
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.runtimeconfig.dev.json
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.dll
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.csproj.CoreCompileInputs.cache
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.RazorAssemblyInfo.cache
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.RazorAssemblyInfo.cs
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.AssemblyInfoInputs.cache
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.AssemblyInfo.cs
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.TagHelpers.input.cache
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.TagHelpers.output.cache
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.RazorCoreGenerate.cache
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.RazorTargetAssemblyInfo.cache
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.RazorTargetAssemblyInfo.cs
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.pdb
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.Views.dll
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.Views.pdb
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.Views.pdb
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.dll
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.pdb
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.csproj.CopyComplete
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.csprojAssemblyReference.cache
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Lenta.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Mind\CreateMind.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.deps.json
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.runtimeconfig.json
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.runtimeconfig.dev.json
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.dll
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.pdb
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.Views.dll
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.Views.pdb
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.csproj.CoreCompileInputs.cache
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.RazorAssemblyInfo.cache
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.RazorAssemblyInfo.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.AssemblyInfoInputs.cache
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.AssemblyInfo.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.TagHelpers.input.cache
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.TagHelpers.output.cache
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.RazorCoreGenerate.cache
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Lenta.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Mind\CreateMind.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.RazorTargetAssemblyInfo.cache
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.RazorTargetAssemblyInfo.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.Views.pdb
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.dll
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.pdb
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.csproj.CopyComplete
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\_GetUser.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\UserPage\UserPage.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\UserPage\_GetUser.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\addLike.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.csprojAssemblyReference.cache
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Settings\Settings.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v2\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\_Comments.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.deps.json
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.runtimeconfig.json
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.runtimeconfig.dev.json
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.dll
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.pdb
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.Views.dll
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\bin\Debug\netcoreapp2.1\MinderXAuth.Views.pdb
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.csprojAssemblyReference.cache
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.csproj.CoreCompileInputs.cache
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.RazorAssemblyInfo.cache
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.RazorAssemblyInfo.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.AssemblyInfoInputs.cache
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.AssemblyInfo.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.TagHelpers.input.cache
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.TagHelpers.output.cache
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.RazorCoreGenerate.cache
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Account\Register.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\addLike.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Lenta.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\_Comments.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Home\_GetUser.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Mind\CreateMind.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Settings\Settings.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\UserPage\UserPage.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\UserPage\_GetUser.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.RazorTargetAssemblyInfo.cache
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.RazorTargetAssemblyInfo.cs
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.Views.pdb
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.dll
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.pdb
+E:\ПВИ Курсач\MinderXAuth v3\MinderXAuth\obj\Debug\netcoreapp2.1\MinderXAuth.csproj.CopyComplete

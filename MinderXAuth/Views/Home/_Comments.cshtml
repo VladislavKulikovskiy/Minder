@@ -1,0 +1,14 @@
+﻿@model MinderXAuth.ViewModels.MindModel
+
+@{
+    string commentBlock = "comment" + Model.MindId.ToString();
+}
+<div id="@commentBlock">
+
+        @foreach (var comm in Model.Comments2)
+        { 
+              <div><a href="/UserPage/UserPage?id=@comm.Key.UserId"> <img src="@comm.Value" class="img-circle" height="50" width="50"></a></div>
+                <div>@comm.Key.CommentMess</div>
+                <div>@comm.Key.DateOfComment</div>
+        }
+</div>

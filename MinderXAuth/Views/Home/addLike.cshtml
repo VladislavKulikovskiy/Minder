@@ -1,0 +1,22 @@
+﻿@model MinderXAuth.ViewModels.MindModel
+
+@{
+    string nameBlock = "numOfLike" + Model.MindId.ToString();
+    string formblock = "formblock" + Model.MindId.ToString();
+}
+
+<div id="@nameBlock">
+    @if (Model.liked)
+    {
+        <input type="submit" value="dislike" form="@formblock">
+    }
+    else
+    {
+        <input type="submit" value="like" form="@formblock">
+    }
+
+
+    <input type="hidden" name="MindId" value=@Model.MindId form="@formblock">
+    <h2>@Model.NumOfLikes</h2>
+</div>
+

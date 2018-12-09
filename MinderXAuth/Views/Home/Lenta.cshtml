@@ -1,0 +1,64 @@
+﻿@model IEnumerable<MinderXAuth.ViewModels.MindModel>
+
+
+<h2>@ViewData["Message"]</h2>
+
+@Html.Partial("_GetUser", ViewData["user"])
+
+<h2>While you were away...</h2>
+
+<div style="position:center; left:50px; right:50px">
+    <table border="1" width="100%" cellpadding="5">
+
+        @foreach (var mind in Model)
+        {
+
+
+            string commentBlock = "comment" + mind.MindId.ToString();
+            Mind k = new Mind { NumOfLikes = mind.NumOfLikes, MindId = mind.MindId};
+
+
+            <tr>
+                <td><a href="/UserPage/UserPage?id=@mind.UserId"> <img src="@mind.UserPic" class="img-circle" height="100" width="100"></a></td>
+                <td>@mind.MindId</td>
+                <td><p>@mind.MindMess</p></td>
+                <td>@mind.UserId</td>
+                <td>@mind.DateOfMind</td>
+                <td>
+                    @{
+                        string nameBlock = "numOfLike" + mind.MindId.ToString();
+                        string formblock = "formblock" + mind.MindId.ToString();
+                    }
+                    <div>
+                        <form id="@formblock" action="/Home/addLike" data-ajax="true" data-ajax-mode="replace-with" data-ajax-update="#@nameBlock" data-ajax-method="post">
+                            @*<input type="submit" value="like/dislike">*@
+                            @*<input type="hidden" name="MindId" value=@mind.MindId>*@
+                        </form>
+
+                        <div id="@nameBlock">
+                            @Html.Partial("~/Views/Home/addLike.cshtml", mind)
+                        </div>
+
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+
+                    <div>
+
+                        <form action="/Home/addComment" data-ajax="true" data-ajax-mode="replace-with" data-ajax-update="#@commentBlock" data-ajax-method="post">
+                            <input type="submit" value="add comment">
+                            <input type="text" name="commentText">
+                            <input type="hidden" name="MindId" value=@mind.MindId>
+                        </form>
+
+                        <div id="@commentBlock">
+                            @Html.Partial("~/Views/Home/_Comments.cshtml", mind)
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        }
+    </table>
+</div>
